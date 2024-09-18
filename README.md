@@ -1,10 +1,10 @@
 # hw1_introduction
 ROS- Homework Assignment1
+
 ## Overview:
 This is Implemented by Harsh Panara - hp475@cornell.edu
 
 
-`![The title of your image](imageName.png)`.
 ## Deliverables
 Answer are in hw1_introduction/writeup/README.md.
 <ol>
@@ -46,11 +46,15 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 ```
 
 <li> Include your RViz screenshot showing the car. </li>&nbsp
-![The title of your image](locations.png)
+![RVIZ-CarScreenshot](locations.png)
+
 <li> Include your runtime_comparison.png figure for the different norm implementations. </li>&nbsp
 
-<li> Include the locations.png and norms.png figures for the plan figure_8.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
+![Runtime-Comparison-Different Norms](locations (1).png)
 
+<li> Include the locations.png and norms.png figures for the plan figure_8.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
+![Locations-jpg](locations (1).png)
+![Norms-jpg](norms (1).png)
 <li> Include the locations.png and norms.png figures for the plan crown.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
 
 <li> Optional for undergrad, mandatory for graduate: Include your own plan file, any code you wrote to generate it, and the resulting locations.png figure. </li>&nbsp
