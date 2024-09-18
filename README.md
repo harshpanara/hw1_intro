@@ -46,7 +46,7 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 ```
 
 <li> Include your RViz screenshot showing the car. </li>&nbsp
-![RVIZ-CarScreenshot](locations.png)
+![RVIZCarScreenshot](hw1_introduction/locations.png)
 
 <li> Include your runtime_comparison.png figure for the different norm implementations. </li>&nbsp
 
