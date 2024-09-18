@@ -46,7 +46,7 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 ```
 
 <li> Include your RViz screenshot showing the car. </li>&nbsp
-
+`![RVIZ- Image](locations.png)`
 <li> Include your runtime_comparison.png figure for the different norm implementations. </li>&nbsp
 
 <li> Include the locations.png and norms.png figures for the plan figure_8.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
@@ -62,4 +62,4 @@ hw1_introduction is submitted on Gradescope.
 ### Reference Images
 More images are in the hw1_introduction/src/writeup directory.
 Below are some more reference Images which were taken while doing the assignment.
-`![The title of your image](imageName.png)`.
+![The title of your image](imageName.png)
