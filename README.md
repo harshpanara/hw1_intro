@@ -50,7 +50,7 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 
 <li> Include your runtime_comparison.png figure for the different norm implementations. </li>&nbsp
 
-![Runtime-Comparison-Different Norms](locations (1).png)
+![Runtime-Comparison-Different Norms](locations(1).png)
 
 <li> Include the locations.png and norms.png figures for the plan figure_8.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
 ![Locations-jpg](locations (1).png)
